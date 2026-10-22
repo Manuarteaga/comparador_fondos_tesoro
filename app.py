@@ -114,7 +114,7 @@ with tab1:
                 
                 # Estructura de 3 columnas
                 st.markdown("---")
-                st.subheader(f"📦 Alternativas de Inversión Relacionadas con **{ticker_symbol}**")
+                st.subheader("📦 **{ticker_symbol}** aparece en los siguientes Fondos y ETFs")
                 
                 col_c1, col_c2, col_c3 = st.columns(3)
                 
